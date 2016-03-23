@@ -1,0 +1,22 @@
+{
+  "name": "simple-m-x",
+  "version": "0.0.1",
+  "description": "a simple project template of fiss",
+  "main": "fis-conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fis-parser-node-sass-x":"*",
+    "fis3-postpackager-loader-x": "*",
+    "fis-spriter-csssprites-plus":"*",
+    "fis3-deploy-skip-packed":"0.0.5",
+    "fis3-deploy-ftp-x":"*",
+    "fis-lint-html-hint": "^1.0.0",
+    "fis3-lint-csslint": "^1.0.1",
+    "fis3-lint-eslint": "^1.0.0",
+	"fis3-media-manage":"*"
+  },
+  "author": "",
+  "license": "MIT"
+}
